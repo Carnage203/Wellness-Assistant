@@ -1,0 +1,310 @@
+{
+  "users": {
+    "c0ff0ac2-1443-4f25-baed-081eaeea13e6": {
+      "name": "Kangana Roshan",
+      "records": {
+        "2025-12-16": {
+          "meals": 3,
+          "water_intake": 3.0,
+          "workout_hours": 0.5,
+          "sleep_hours": 5.5,
+          "blood_glucose": 110.0,
+          "blood_pressure": "120/80",
+          "medications": "",
+          "mood/stress/anxiety": "Low energy, mild stress",
+          "symptoms": "fatigue"
+        },
+        "2025-12-17": {
+          "meals": 3,
+          "water_intake": 3.4,
+          "workout_hours": 0.5,
+          "sleep_hours": 6.0,
+          "blood_glucose": 106.0,
+          "blood_pressure": "118/78",
+          "medications": "",
+          "mood/stress/anxiety": "Slightly stressed",
+          "symptoms": ""
+        },
+        "2025-12-18": {
+          "meals": 4,
+          "water_intake": 4.0,
+          "workout_hours": 1.0,
+          "sleep_hours": 6.8,
+          "blood_glucose": 100.0,
+          "blood_pressure": "116/76",
+          "medications": "",
+          "mood/stress/anxiety": "Feeling better",
+          "symptoms": ""
+        },
+        "2025-12-19": {
+          "meals": 4,
+          "water_intake": 4.2,
+          "workout_hours": 1.2,
+          "sleep_hours": 7.2,
+          "blood_glucose": 96.0,
+          "blood_pressure": "114/75",
+          "medications": "",
+          "mood/stress/anxiety": "Calm",
+          "symptoms": ""
+        },
+        "2025-12-20": {
+          "meals": 5,
+          "water_intake": 4.5,
+          "workout_hours": 1.5,
+          "sleep_hours": 8.0,
+          "blood_glucose": 92.0,
+          "blood_pressure": "112/74",
+          "medications": "",
+          "mood/stress/anxiety": "Positive",
+          "symptoms": ""
+        },
+        "2025-12-21": {
+          "meals": 4,
+          "water_intake": 4.0,
+          "workout_hours": 1.0,
+          "sleep_hours": 7.0,
+          "blood_glucose": 94.0,
+          "blood_pressure": "113/74",
+          "medications": "",
+          "mood/stress/anxiety": "Stable and relaxed",
+          "symptoms": ""
+        },
+        "2025-12-22": {
+          "meals": 4,
+          "water_intake": 4.2,
+          "workout_hours": 1.2,
+          "sleep_hours": 7.5,
+          "blood_glucose": 92.0,
+          "blood_pressure": "112/73",
+          "medications": "",
+          "mood/stress/anxiety": "Good mood",
+          "symptoms": ""
+        }
+      }
+    },
+    "49dbc236-86ba-4e71-971a-894ba2a8114e": {
+      "name": "Neymar Jr",
+      "records": {
+        "2025-12-16": {
+          "meals": 6,
+          "water_intake": 6.5,
+          "workout_hours": 5.0,
+          "sleep_hours": 7.5,
+          "blood_glucose": 95.0,
+          "blood_pressure": "126/86",
+          "medications": "Painkillers",
+          "mood/stress/anxiety": "Physically strained",
+          "symptoms": "knee pain"
+        },
+        "2025-12-17": {
+          "meals": 6,
+          "water_intake": 7.0,
+          "workout_hours": 5.5,
+          "sleep_hours": 8.0,
+          "blood_glucose": 97.0,
+          "blood_pressure": "125/85",
+          "medications": "Painkillers",
+          "mood/stress/anxiety": "Focused",
+          "symptoms": ""
+        },
+        "2025-12-18": {
+          "meals": 7,
+          "water_intake": 7.2,
+          "workout_hours": 6.0,
+          "sleep_hours": 8.5,
+          "blood_glucose": 100.0,
+          "blood_pressure": "124/84",
+          "medications": "",
+          "mood/stress/anxiety": "High motivation",
+          "symptoms": ""
+        },
+        "2025-12-19": {
+          "meals": 6,
+          "water_intake": 6.8,
+          "workout_hours": 6.5,
+          "sleep_hours": 7.8,
+          "blood_glucose": 102.0,
+          "blood_pressure": "126/86",
+          "medications": "",
+          "mood/stress/anxiety": "Competitive pressure",
+          "symptoms": "muscle soreness"
+        },
+        "2025-12-20": {
+          "meals": 6,
+          "water_intake": 7.0,
+          "workout_hours": 5.0,
+          "sleep_hours": 8.0,
+          "blood_glucose": 99.0,
+          "blood_pressure": "125/85",
+          "medications": "",
+          "mood/stress/anxiety": "Recovered",
+          "symptoms": ""
+        },
+        "2025-12-21": {
+          "meals": 6,
+          "water_intake": 6.8,
+          "workout_hours": 4.5,
+          "sleep_hours": 8.2,
+          "blood_glucose": 98.0,
+          "blood_pressure": "124/84",
+          "medications": "",
+          "mood/stress/anxiety": "Recovery focused",
+          "symptoms": ""
+        },
+        "2025-12-22": {
+          "meals": 6,
+          "water_intake": 7.1,
+          "workout_hours": 5.5,
+          "sleep_hours": 8.0,
+          "blood_glucose": 101.0,
+          "blood_pressure": "126/85",
+          "medications": "",
+          "mood/stress/anxiety": "Match ready",
+          "symptoms": "minor muscle tightness"
+        }
+      }
+    },
+    "8f2a9c71-3b2d-4f6e-9a31-21f3b6c98a12": {
+      "name": "Rohit Sharma",
+      "records": {
+        "2025-12-16": {
+          "meals": 4,
+          "water_intake": 3.8,
+          "workout_hours": 1.5,
+          "sleep_hours": 6.0,
+          "blood_glucose": 108.0,
+          "blood_pressure": "122/80",
+          "medications": "",
+          "mood/stress/anxiety": "Neutral",
+          "symptoms": ""
+        },
+        "2025-12-17": {
+          "meals": 4,
+          "water_intake": 4.0,
+          "workout_hours": 1.2,
+          "sleep_hours": 6.5,
+          "blood_glucose": 104.0,
+          "blood_pressure": "120/78",
+          "medications": "",
+          "mood/stress/anxiety": "Focused",
+          "symptoms": ""
+        },
+        "2025-12-18": {
+          "meals": 5,
+          "water_intake": 4.2,
+          "workout_hours": 2.0,
+          "sleep_hours": 7.5,
+          "blood_glucose": 98.0,
+          "blood_pressure": "118/76",
+          "medications": "",
+          "mood/stress/anxiety": "Confident",
+          "symptoms": ""
+        },
+        "2025-12-19": {
+          "meals": 5,
+          "water_intake": 4.0,
+          "workout_hours": 1.5,
+          "sleep_hours": 5.5,
+          "blood_glucose": 112.0,
+          "blood_pressure": "124/82",
+          "medications": "",
+          "mood/stress/anxiety": "Match pressure",
+          "symptoms": "fatigue"
+        },
+        "2025-12-20": {
+          "meals": 4,
+          "water_intake": 3.6,
+          "workout_hours": 1.0,
+          "sleep_hours": 6.8,
+          "blood_glucose": 105.0,
+          "blood_pressure": "121/79",
+          "medications": "",
+          "mood/stress/anxiety": "Recovered",
+          "symptoms": ""
+        },
+        "2025-12-21": {
+          "meals": 4,
+          "water_intake": 3.9,
+          "workout_hours": 1.3,
+          "sleep_hours": 6.5,
+          "blood_glucose": 103.0,
+          "blood_pressure": "120/78",
+          "medications": "",
+          "mood/stress/anxiety": "Training focus",
+          "symptoms": ""
+        },
+        "2025-12-22": {
+          "meals": 5,
+          "water_intake": 4.2,
+          "workout_hours": 1.8,
+          "sleep_hours": 7.2,
+          "blood_glucose": 99.0,
+          "blood_pressure": "118/76",
+          "medications": "",
+          "mood/stress/anxiety": "Confident",
+          "symptoms": ""
+        }
+      }
+    },
+    "79d85805-ab32-426b-afaa-b02e53e58f46": {
+      "name": "Lebu Chatterjee",
+      "records": {
+        "2025-12-18": {
+          "meals": 3,
+          "water_intake": 2.5,
+          "workout_hours": 0.0,
+          "sleep_hours": 4.0,
+          "blood_glucose": 102.0,
+          "blood_pressure": "148/82",
+          "medications": "",
+          "mood/stress/anxiety": "Highly anxious",
+          "symptoms": "over sweating"
+        },
+        "2025-12-19": {
+          "meals": 3,
+          "water_intake": 2.8,
+          "workout_hours": 0.0,
+          "sleep_hours": 4.5,
+          "blood_glucose": 100.0,
+          "blood_pressure": "150/80",
+          "medications": "",
+          "mood/stress/anxiety": "Career stress",
+          "symptoms": "headache"
+        },
+        "2025-12-20": {
+          "meals": 4,
+          "water_intake": 3.0,
+          "workout_hours": 0.2,
+          "sleep_hours": 5.0,
+          "blood_glucose": 98.0,
+          "blood_pressure": "145/78",
+          "medications": "",
+          "mood/stress/anxiety": "Trying to improve routine",
+          "symptoms": ""
+        },
+        "2025-12-21": {
+          "meals": 4,
+          "water_intake": 3.2,
+          "workout_hours": 0.5,
+          "sleep_hours": 5.5,
+          "blood_glucose": 96.0,
+          "blood_pressure": "140/76",
+          "medications": "",
+          "mood/stress/anxiety": "Slightly hopeful",
+          "symptoms": ""
+        },
+        "2025-12-22": {
+          "meals": 4,
+          "water_intake": 3.4,
+          "workout_hours": 0.6,
+          "sleep_hours": 6.0,
+          "blood_glucose": 95.0,
+          "blood_pressure": "138/75",
+          "medications": "",
+          "mood/stress/anxiety": "More optimistic",
+          "symptoms": ""
+        }
+      }
+    }
+  }
+}

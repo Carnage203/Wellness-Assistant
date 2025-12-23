@@ -1,0 +1,8 @@
+langchain
+langgraph
+langchain_community
+dotenv
+google-genai
+streamlit
+pillow
+groq
