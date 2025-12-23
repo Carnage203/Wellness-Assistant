@@ -94,8 +94,7 @@ neolen_assignment/
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd neolen_assignment
+git clone [<repository-url>](https://github.com/Carnage203/Wellness-Assistant.git)
 ```
 
 ### 2. Create a Virtual Environment
